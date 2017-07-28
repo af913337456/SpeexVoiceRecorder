@@ -10,19 +10,18 @@
 
 ### 效果展示
 
-<figure class="half">
-    <a><img src="https://user-gold-cdn.xitu.io/2017/7/28/139a9a1835fa730c4d3a1b1a9b3d0088" width = "350" height = "650" alt="下雨"/></a>
-    <a><img src="https://user-gold-cdn.xitu.io/2017/7/28/17afc1d33348f8ba19dbcdabf812d269" width = "350" height = "650" alt="下雨"/></a>
-</figure>
-<figure class="half">
-<img src="https://user-gold-cdn.xitu.io/2017/7/28/139a9a1835fa730c4d3a1b1a9b3d0088" width = "350" height = "650" alt="下雨"/>
-<img src="https://user-gold-cdn.xitu.io/2017/7/28/17afc1d33348f8ba19dbcdabf812d269" width = "350" height = "650" alt="下雨"/>
-</figure>
+<div style="float:left;border:solid 1px 000;margin:2px;">
+<img src="https://user-gold-cdn.xitu.io/2017/7/28/139a9a1835fa730c4d3a1b1a9b3d0088" width = "350" height = "650"/>
 
-<figure class="half">
-<img src="https://user-gold-cdn.xitu.io/2017/7/28/e4871c774cbde073ea06015aff7fa3ec" width = "350" height = "650" alt="下雨"/>
-<img src="https://user-gold-cdn.xitu.io/2017/7/28/aa2994532547a0a0df109dfc30cecdd7" width = "350" height = "650" alt="下雨"/>
-</figure>
+<img src="https://user-gold-cdn.xitu.io/2017/7/28/17afc1d33348f8ba19dbcdabf812d269" width = "350" height = "650"/>
+</div>
+
+<div style="float:left;border:solid 1px 000;margin:2px;">
+<img src="https://user-gold-cdn.xitu.io/2017/7/28/e4871c774cbde073ea06015aff7fa3ec" width = "350" height = "650" />
+
+<img src="https://user-gold-cdn.xitu.io/2017/7/28/aa2994532547a0a0df109dfc30cecdd7" width = "350" height = "650"/>
+</div>
+<div style="clear:both;"></div>
 
 ### GitHub 链接
 本着开源的精神，如果对你有用，希望您能给予个星星(star)
