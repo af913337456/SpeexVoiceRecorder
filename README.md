@@ -25,7 +25,7 @@
 
 ### GitHub 链接
 本着开源的精神，如果对你有用，希望您能给予个星星(star)
-https://github.com/af913337456/WeChatVideoView
+https://github.com/af913337456/SpeexVoiceRecorder
 
 ### 功能点
 
